@@ -3118,7 +3118,8 @@ class PipelineParallelGrid:
                         self.recv_activation_src_rank = activation_src_rank
                         self.recv_activation_group = activation_group
                         self.recv_activation_proc_group = activation_proc_group
-        log_dist(f'_build_activation_groups stage: {self.stage_id}, send_activation_src_rank : '\
+        log_dist(f'_build_activation_groups stage: {self.stage_id}, sendAKLTMzMxZDhlYTFkZDUyNDg0OTlhZGJjODU0ZjM0M2Q0ZTg
+_activation_src_rank : '\
             f'{self.send_activation_src_rank}, send_activation_group: {self.send_activation_group}, '\
             f'recv_grads_group: {self.recv_grads_group}', ranks=[-1], level=logging.DEBUG)
 
