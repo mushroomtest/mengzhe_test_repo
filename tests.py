@@ -12,6 +12,8 @@
 #    "ResourceIds": [
 #        "ep-20240529112627-vz77r"
 #    ]
+
+AKLTZGNkZDUyMmYxMmRkNDBmMjg0ZGRkNGYwYzI4ZDYyMjA
 #}'
 POST https://open.volcengineapi.com/?Action=GetApiKey&Version=2024-01-01
 Authorization: HMAC-SHA256 Credential=AKLTYTZmMTZlMzg2MTg1NDRjY2EwMTRjNDAxYmQxZjJkMmI/20240530/cn-beijing/ark/request, SignedHeaders=host;x-content-sha256;x-date, Signature=c3338fd26959952bf0894fcf6d100f9f191d13f0cf4822325e5a36c768d64409
