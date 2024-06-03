@@ -22,6 +22,7 @@ X-Content-Sha256: 2e614b80ed4186084ebe4b6b364c26ec82a42cbb20255cf60daeec799e1113
 X-Date: 20240530T070820Z
 Content-Type: application/json
 
+AKLTZGNkZDUyMmYxMmRkNDBmMjg0ZGRkNGYwYzI4ZDYyMjA
 {
   "ResourceType": "endpoint",
   "DurationSeconds": 2592000,
